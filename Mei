@@ -3,13 +3,13 @@ if (not _G.Flags) then
 		ESP = {
 			NotVisibleColor = Color3.fromRGB(255,0,0);
 			VisibleColor = Color3.fromRGB(0,255,0);	
-			DistanceLimit = 1500;
+			DistanceLimit = 1000;
 			Box = true;
 			Name = true;
 			Weapon = true;
 			Distance = true;
 			VisibleCheck = true;
-			Sleepers = false;
+			Sleepers = true;
 		};
 		HitboxExpander = {
 			Size = 12;
