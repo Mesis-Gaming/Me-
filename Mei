@@ -9,7 +9,7 @@ local settings = {
         unionColor = Color3.fromRGB(205, 205, 205)
     },
     atvESP = {
-        enabled = false,
+        enabled = true,
         textColor = Color3.fromRGB(0, 255, 0),
         outlineColor = Color3.fromRGB(0, 0, 0)
     }
